@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2249
+
+This is a simple syntax file for highlighting http proxy .pac files.  The proxy auto-config file defines how web browsers and other user agents can automatically choose the appropriate proxy server (access method) for fetching a given URL.  This script will help to parse these proxy files.  A great example to test it out on is at http://www.schooner.com/~loverso/no-ads/. where you can find John LoVerso&#039s outstanding no-ads proxy config file.  Let me know what you think, and send comments to my email.  
